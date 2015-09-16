@@ -1,0 +1,22 @@
+Assignment on Angular JavaScript :
+
+(View Part)
+
+1.There Should be 2 Different roles.(1. For Admin and another is for User)
+2.Admin can able to view all the user details and have the rights to manipulate the user records, which is only visible to the admin.
+3.User can only be able to view his/her account and have capability to change his/her details.
+4.There should be separate user registration form, through which visitor can register his/her details.
+5.After User Registration data will passed to the User confirmation page, so he/she can commit the details.
+6.The confirm details will get stored in the cookies.
+7.Admin can be able to view the uses details, the table contain edit and delete records button in  each row.(The edit and delete  button contain confirmation     dialog so that he/she can commit or rollback from the confirmation window.)
+8.There should be an gird to view the records(ng-grid).
+
+(Functional Part)
+
+1.Angular MVC must be followed.
+2.There should be separate controller and services and directives.
+4.Ng-gird is required to show the user details.
+3. There should be a pop-up window on edit button.
+4.Proper validations must be maintained at every form.
+5.Proper implementation of best practices of HTML and CSS.
+
